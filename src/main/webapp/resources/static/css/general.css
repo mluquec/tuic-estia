@@ -1,0 +1,6 @@
+@CHARSET "ISO-8859-1";
+.checkbox-grid li {
+    display: block;
+    float: left;
+    width: 25%;
+}

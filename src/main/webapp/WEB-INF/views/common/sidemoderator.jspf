@@ -1,0 +1,18 @@
+
+<nav class="navbar navbar-default sidebar" role="navigation">
+    <div class="container-fluid">
+    <div class="row">
+	
+    
+    <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+		<li class="btn-block" ><a href="/tangible/list">Interfaces</a></li>     
+      	<li class="btn-block" ><a href="/dashboard/list">Dashboard<span  class="pull-right hidden-xs showopacity glyphicon glyphicon-tasks"></span></a></li>     
+      	
+      </ul>
+    </div>
+    </div>
+
+  </div>
+</nav>
+
